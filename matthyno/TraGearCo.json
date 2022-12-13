@@ -1,0 +1,18 @@
+{
+  "buildings":{
+    "en": [
+      {
+        "price":110,
+        "name": "TraGear & Co. Particle Cheapo Chamber",
+        "perSecond": 3,
+        "id": "traGearPCC"
+      }
+    ],
+    "e": [
+      "price": 10,
+      "name": "TraGear & Co. Electron Cheapo Coil",
+      "perSecond": 5,
+      "id": "traGearECC"
+    ]
+  }
+}
