@@ -9,10 +9,12 @@
       }
     ],
     "e": [
-      "price": 10,
-      "name": "TraGear & Co. Electron Cheapo Coil",
-      "perSecond": 5,
-      "id": "traGearECC"
+      {
+        "price": 10,
+        "name": "TraGear & Co. Electron Cheapo Coil",
+        "perSecond": 5,
+        "id": "traGearECC"
+      }
     ]
   }
 }
